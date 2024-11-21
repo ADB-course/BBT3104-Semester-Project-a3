@@ -1,1 +1,2 @@
 -- Write your SQL code here
+ALTER TABLE CUSTOMER_ORDER ENGINE = InnoDB;
